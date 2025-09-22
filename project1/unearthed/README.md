@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/Wh2tvHa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Gif Walkthrough](https://imgur.com/a/Wh2tvHa)
 
 GIF created with ...  Add GIF tool here
 [Kap](https://getkap.co/) for macOS
