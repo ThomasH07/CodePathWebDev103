@@ -48,6 +48,7 @@ const renderGifts = async () => {
         mainContent.appendChild(message)
     }
 }
+requestedUrl = window.location.href.split('/').pop()
 if (requestedUrl) {
   window.location.href = '../404.html'
 }
