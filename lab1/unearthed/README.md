@@ -1,4 +1,4 @@
-# WEB103 Project 1 - *Unearthed*
+# WEB103 lab 1 - *Unearthed*
 
 Submitted by: **Thomas**
 

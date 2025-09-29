@@ -11,5 +11,5 @@ const config = {
         rejectUnauthorized: false
     }
 }
-console.log(config)
+// console.log(config)
 export const pool = new pg.Pool(config);
